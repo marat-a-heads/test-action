@@ -1,8 +1,4 @@
-sfds
-ds
-f
-dsf
-sdGE# test-action
+RESOLVED
 test 22
 test minor version
 test major version
