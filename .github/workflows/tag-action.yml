@@ -1,18 +1,12 @@
-name: Bump version
 on:
   push:
     branches:
       - main
+name: release-please
 jobs:
-  build:
+  release-please:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: '0'
-    - name: Bump version and push tag
-      uses: anothrNick/github-tag-action@1.36.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        RELEASE_BRANCHES: main
-        DEFAULT_BUMP: patch
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: node
