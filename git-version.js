@@ -1,7 +1,9 @@
 const { gitDescribeSync } = require('git-describe');
 const { writeFileSync } = require('fs');
 
-const gitInfo = gitDescribeSync();
+const gitInfo = gitDescribeSync({
+    match: '[0-9]*'
+});
 
 console.log(gitInfo);
 
