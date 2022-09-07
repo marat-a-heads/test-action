@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.42](https://github.com/marat-a-heads/test-action/compare/v0.0.41...v0.0.42) (2022-09-07)
+
+
+### Bug Fixes
+
+* test any release action ([6e4d37b](https://github.com/marat-a-heads/test-action/commit/6e4d37bf31f8f92a8a7fff09b760775b6ef8ecfd))
+
 ## [0.0.41](https://github.com/marat-a-heads/test-action/compare/v0.0.40...v0.0.41) (2022-09-07)
 
 
