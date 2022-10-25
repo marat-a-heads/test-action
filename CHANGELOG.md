@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.43](https://github.com/marat-a-heads/test-action/compare/v0.0.42...v0.0.43) (2022-10-25)
+
+
+### Bug Fixes
+
+* test merge to azure-main after relese ([808da7b](https://github.com/marat-a-heads/test-action/commit/808da7bf247219341736fc8467df1190138ec976))
+
 ## [0.0.42](https://github.com/marat-a-heads/test-action/compare/v0.0.41...v0.0.42) (2022-09-07)
 
 
