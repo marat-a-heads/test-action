@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.45](https://github.com/marat-a-heads/test-action/compare/v0.0.44...v0.0.45) (2022-12-22)
+
+
+### Bug Fixes
+
+* add version to deploy ([5bd49cf](https://github.com/marat-a-heads/test-action/commit/5bd49cf6df668ba3331a3eacdaa1f015c1279917))
+
 ## [0.0.44](https://github.com/marat-a-heads/test-action/compare/v0.0.43...v0.0.44) (2022-12-20)
 
 
