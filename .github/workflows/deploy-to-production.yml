@@ -1,4 +1,4 @@
-name: Deplpoy to Production ICS4U
+name: Deploy to Production ICS4U
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -15,4 +15,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Send greeting
-      run: echo "Hello WORLD"
+      run: echo "Hello WORLD v0.0.45"
